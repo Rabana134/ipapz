@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/ipapz/static/css/main.4e96e8e2.chunk.css",
-    "main.js": "/ipapz/static/js/main.2c84d6ac.chunk.js",
-    "main.js.map": "/ipapz/static/js/main.2c84d6ac.chunk.js.map",
+    "main.js": "/ipapz/static/js/main.d859634a.chunk.js",
+    "main.js.map": "/ipapz/static/js/main.d859634a.chunk.js.map",
     "runtime-main.js": "/ipapz/static/js/runtime-main.704f2a79.js",
     "runtime-main.js.map": "/ipapz/static/js/runtime-main.704f2a79.js.map",
-    "static/js/2.010761f6.chunk.js": "/ipapz/static/js/2.010761f6.chunk.js",
-    "static/js/2.010761f6.chunk.js.map": "/ipapz/static/js/2.010761f6.chunk.js.map",
+    "static/js/2.592ee2bf.chunk.js": "/ipapz/static/js/2.592ee2bf.chunk.js",
+    "static/js/2.592ee2bf.chunk.js.map": "/ipapz/static/js/2.592ee2bf.chunk.js.map",
     "index.html": "/ipapz/index.html",
     "static/css/main.4e96e8e2.chunk.css.map": "/ipapz/static/css/main.4e96e8e2.chunk.css.map",
-    "static/js/2.010761f6.chunk.js.LICENSE.txt": "/ipapz/static/js/2.010761f6.chunk.js.LICENSE.txt"
+    "static/js/2.592ee2bf.chunk.js.LICENSE.txt": "/ipapz/static/js/2.592ee2bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.704f2a79.js",
-    "static/js/2.010761f6.chunk.js",
+    "static/js/2.592ee2bf.chunk.js",
     "static/css/main.4e96e8e2.chunk.css",
-    "static/js/main.2c84d6ac.chunk.js"
+    "static/js/main.d859634a.chunk.js"
   ]
 }
