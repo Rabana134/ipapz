@@ -1,0 +1,39 @@
+.footer-background{
+    background: #CBC3E3;
+}
+.foot-title{
+    display: inline-table;
+    color: black;
+    margin-left: 2rem;
+    margin-top: 30px;
+}
+.footer-list{
+    color: black;
+    padding-left: 8px;
+}
+
+.nobull {
+    list-style-type: none;
+   }
+
+   .fa-map-marker-alt{
+    content: "\f3c5";
+    color: black;
+    font-size: 1rem;
+}
+.fa-phone-alt{
+    content: "\f3c5";
+    color: white;
+    font-size: 1rem;
+}
+.fa-envelope{
+    content: "\f3c5";
+    color: white;
+    font-size: 1rem;
+}
+
+.social-media{
+    display: inline-table;
+    margin: 0.5rem;
+}
+
