@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ipapz/static/css/main.1ee3d6f7.chunk.css",
-    "main.js": "/ipapz/static/js/main.0a315291.chunk.js",
-    "main.js.map": "/ipapz/static/js/main.0a315291.chunk.js.map",
+    "main.js": "/ipapz/static/js/main.d6263537.chunk.js",
+    "main.js.map": "/ipapz/static/js/main.d6263537.chunk.js.map",
     "runtime-main.js": "/ipapz/static/js/runtime-main.704f2a79.js",
     "runtime-main.js.map": "/ipapz/static/js/runtime-main.704f2a79.js.map",
     "static/css/2.06d0ae72.chunk.css": "/ipapz/static/css/2.06d0ae72.chunk.css",
@@ -36,6 +36,6 @@
     "static/css/2.06d0ae72.chunk.css",
     "static/js/2.7c8f4b0f.chunk.js",
     "static/css/main.1ee3d6f7.chunk.css",
-    "static/js/main.0a315291.chunk.js"
+    "static/js/main.d6263537.chunk.js"
   ]
 }
