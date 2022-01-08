@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ipapz/static/css/main.b3ef9e7e.chunk.css",
-    "main.js": "/ipapz/static/js/main.5f5af7ef.chunk.js",
-    "main.js.map": "/ipapz/static/js/main.5f5af7ef.chunk.js.map",
+    "main.js": "/ipapz/static/js/main.cae9b9ac.chunk.js",
+    "main.js.map": "/ipapz/static/js/main.cae9b9ac.chunk.js.map",
     "runtime-main.js": "/ipapz/static/js/runtime-main.704f2a79.js",
     "runtime-main.js.map": "/ipapz/static/js/runtime-main.704f2a79.js.map",
     "static/css/2.0144ece3.chunk.css": "/ipapz/static/css/2.0144ece3.chunk.css",
-    "static/js/2.95a8b936.chunk.js": "/ipapz/static/js/2.95a8b936.chunk.js",
-    "static/js/2.95a8b936.chunk.js.map": "/ipapz/static/js/2.95a8b936.chunk.js.map",
+    "static/js/2.e273c67e.chunk.js": "/ipapz/static/js/2.e273c67e.chunk.js",
+    "static/js/2.e273c67e.chunk.js.map": "/ipapz/static/js/2.e273c67e.chunk.js.map",
     "index.html": "/ipapz/index.html",
     "static/css/2.0144ece3.chunk.css.map": "/ipapz/static/css/2.0144ece3.chunk.css.map",
     "static/css/main.b3ef9e7e.chunk.css.map": "/ipapz/static/css/main.b3ef9e7e.chunk.css.map",
-    "static/js/2.95a8b936.chunk.js.LICENSE.txt": "/ipapz/static/js/2.95a8b936.chunk.js.LICENSE.txt",
+    "static/js/2.e273c67e.chunk.js.LICENSE.txt": "/ipapz/static/js/2.e273c67e.chunk.js.LICENSE.txt",
     "static/media/blog1.25c4814a.jpg": "/ipapz/static/media/blog1.25c4814a.jpg",
     "static/media/blog2.2161c5ab.jpg": "/ipapz/static/media/blog2.2161c5ab.jpg",
     "static/media/child1.92b04332.jpg": "/ipapz/static/media/child1.92b04332.jpg",
@@ -34,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.704f2a79.js",
     "static/css/2.0144ece3.chunk.css",
-    "static/js/2.95a8b936.chunk.js",
+    "static/js/2.e273c67e.chunk.js",
     "static/css/main.b3ef9e7e.chunk.css",
-    "static/js/main.5f5af7ef.chunk.js"
+    "static/js/main.cae9b9ac.chunk.js"
   ]
 }
